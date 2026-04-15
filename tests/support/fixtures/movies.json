@@ -1,0 +1,42 @@
+{
+    "create": {
+        "title": "Train to Busan",
+        "overview": "Um pai e sua filha ficam presos em um trem de alta velocidade durante um surto zumbi na Coreia do Sul, lutando para sobreviver enquanto o caos se espalha pelos vagões.",
+        "company": "Next Entertainment World",
+        "release_year": 2016,
+        "featured": false,
+        "cover": "https://image.tmdb.org/t/p/w500/3H1WFCuxyNRP35oiL2qqwhAXxc0.jpg"
+  },
+  "World War Z": {
+    "title": "World War Z",
+    "overview": "Um ex-investigador da ONU viaja pelo mundo tentando encontrar a origem de uma pandemia zumbi que ameaça exterminar a humanidade.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "https://image.tmdb.org/t/p/w500/Ha5t0J21eyiq6Az1EXzx0iwsGH.jpg"
+  },
+  "28 Days Later": {
+    "title": "28 Days Later",
+    "overview": "Após um vírus devastador se espalhar pelo Reino Unido, um homem acorda de um coma e descobre um mundo dominado por pessoas infectadas extremamente agressivas.",
+    "company": "DNA Films",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg"
+  },
+  "Zombieland": {
+    "title": "Zombieland",
+    "overview": "Em um mundo pós-apocalíptico dominado por zumbis, um grupo improvável de sobreviventes percorre os Estados Unidos em busca de segurança e diversão.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg"
+  },
+  "Dawn of the Dead": {
+    "title": "Dawn of the Dead",
+    "overview": "Sobreviventes de um apocalipse zumbi se refugiam em um shopping center, tentando manter a sanidade enquanto o mundo exterior desmorona.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "https://image.tmdb.org/t/p/w500/9BhK8o2XSM2l6rHhybXU0x6Fz6g.jpg"
+  }
+}
